@@ -1,1 +1,1 @@
-# Pi-Hole_my_blocklist
+# My Pi-Hole blacklist
