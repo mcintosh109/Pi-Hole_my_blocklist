@@ -21,4 +21,4 @@ https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Tracke
 https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Fck%20off%20Fackbook.txt
 
 # Fck off youtube -NOTE THIS BLOCK ALL OF YOUTUBE including youtube.com
-https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Fck%off%Youtube.txt
+https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Fck%20off%20Youtube.txt
