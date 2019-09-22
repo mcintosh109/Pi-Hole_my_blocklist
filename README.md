@@ -1,5 +1,5 @@
 # My Pi-Hole blacklist
-
+# The list will be updated yearly around Dec next update will be Dec 2020
 
 # Blacklists
 https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Ads%20Blacklist.txt
@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Spam%2
 https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Trackers%20Blacklist.txt
 
 
-# Fck off facebook -NOTE THIS BLOCKS ALL OF FACEBOOK including www.facebook.com
+# Fck off facebook -NOTE THIS BLOCKS ALL OF FACEBOOK including facebook.com
 https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Fck%20off%20Fackbook.txt
 
 # Fck off youtube -NOTE THIS BLOCK ALL OF YOUTUBE including youtube.com
