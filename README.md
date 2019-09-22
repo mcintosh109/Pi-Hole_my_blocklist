@@ -4,8 +4,6 @@
 # Blacklists
 https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Ads%20Blacklist.txt
 https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Fakenews%20Blacklist.txt
-https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Fck%20off%20Fackbook.txt
-https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Fck%20off%20Youtube.txt
 https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Fraud%20Blacklist.txt
 https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Gambling%20Blacklist.txt
 https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Malware%20Blacklist.txt
@@ -22,3 +20,5 @@ https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Fck%20
 
 # Fck off youtube -NOTE THIS BLOCK ALL OF YOUTUBE including youtube.com
 https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Fck%20off%20Youtube.txt
+
+# The witelist
