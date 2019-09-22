@@ -22,3 +22,4 @@ https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Fck%20
 https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Fck%20off%20Youtube.txt
 
 # The witelist
+https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/The%20witelist.txt
