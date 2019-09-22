@@ -1,5 +1,6 @@
 # My Pi-Hole blacklist
 
+<<<<<<< HEAD
 Blacklists
 https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Ads%20Blacklist.txt
 https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Fakenews%20Blacklist.txt
@@ -21,3 +22,18 @@ https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Fck%20
 
 # Fck off youtube -NOTE THIS BLOCK ALL OF YOUTUBE including youtube.com
 https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Fck off Youtube.txt
+=======
+Blocklists
+https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Ads%20Blacklist.txt.txt
+
+
+
+
+
+
+
+Fck off facebook -NOTE THIS BLOCKS ALL OF FACEBOOK including www.facebook.com
+
+
+Fck off youtube -NOTE THIS BLOCK ALL OF YOUTUBE including youtube.com
+>>>>>>> refs/remotes/origin/master
