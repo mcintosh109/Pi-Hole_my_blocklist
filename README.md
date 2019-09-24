@@ -21,5 +21,5 @@ https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Fck%20
 # Fck off youtube -NOTE THIS BLOCK ALL OF YOUTUBE including youtube.com
 https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/Fck%20off%20Youtube.txt
 
-# The witelist
+# The whitelist
 https://raw.githubusercontent.com/mcintosh109/Pi-Hole_my_blocklist/master/The%20witelist.txt
