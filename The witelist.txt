@@ -55,7 +55,6 @@ client-s.gateway.messenger.live.com
 ui.skype.compricelist.skype.com
 apps.skype.comm.hotmail.com
 sa.symcb.com
-s{1..5}.symcb.com
 officeclient.microsoft.com
 spclient.wg.spotify.com
 apresolve.spotify.com
