@@ -1,14 +1,15 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Add a domain request
+about: Suggest a doamin for the list
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**does your domain fall under one ad, fakenews, fraud, gambling, malware, phising, piracy, porn, or ransomeware?
+If so what list should it be put in?**
+Ex. the website is conederd as and add websiteURL: doubleclick.net 
 
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
