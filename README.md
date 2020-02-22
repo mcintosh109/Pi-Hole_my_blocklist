@@ -1,7 +1,7 @@
 # My Pi-Hole blacklist
 # The list will be updated yearly around Dec next update will be Dec 2020
 
-#now taking suggestions
+# now taking suggestions
 Issues-->new issues-->add a domain request
 
 # Blacklists
