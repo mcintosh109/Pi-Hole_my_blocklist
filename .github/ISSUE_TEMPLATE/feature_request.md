@@ -1,10 +1,6 @@
 ---
 name: Add a domain request
 about: Suggest a doamin for the list
-title: ''
-labels: ''
-assignees: ''
-
 ---
 
 **does your domain fall under one ad, fakenews, fraud, gambling, malware, phising, piracy, porn, or ransomeware?
